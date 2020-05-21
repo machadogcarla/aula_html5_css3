@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+    /*margin-left: 50px;
+    margin-right: 200px;*/
+
+}
+
+header{
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+h1{
+    color: red;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+
+ul li{
+    color: pink;
+}
+
+img{
+    margin-bottom: 20px;
+}
+
+.img_padrao {
+    margin-bottom: 50px;
+    border: 2px solid red;
+}
